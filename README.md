@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JGoleman
 .
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning HTML5,CSS3, and Javascript 
 
 
-  Beginner in programming with sites set on becoming a Data Engineer. 
+  Beginner in programming with sites set on becoming a Full-Stack Developer. 
 
 
 <!---
